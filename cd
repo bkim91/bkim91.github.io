@@ -1,2 +1,6 @@
 cd Datasets && Portfolio && Template && beckham
 git clone https://github.com/bkim91/bkim91.github.io.git
+cd bkim91.github.io
+git add .
+git commit -m "Initial Commit"
+git push
